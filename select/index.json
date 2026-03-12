@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "路地裏猫の正体",
+  "base_artist": "TOKOTOKO(西沢さんP)",
+  "createdAt": "2026-03-12T04:31:51.542290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/01_路地裏猫の正体_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "Cordelia",
+      "has_synced": true,
+      "path": "select/02_路地裏猫の正体_Cordelia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "yuikonnu",
+      "has_synced": true,
+      "path": "select/03_路地裏猫の正体_yuikonnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "花たん",
+      "has_synced": true,
+      "path": "select/04_路地裏猫の正体_花たん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/05_路地裏猫の正体_TOKOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "TOKOTOKO feat. GUMI",
+      "has_synced": false,
+      "path": "select/06_路地裏猫の正体_TOKOTOKO_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "路地裏猫の正体",
+      "artist": "TOKOTOKO (西沢さんP)",
+      "has_synced": false,
+      "path": "select/07_路地裏猫の正体_TOKOTOKO_(西沢さんP).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "路地裏猫の正体",
+      "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_路地裏猫の正体_TOKOTOKO(西沢さんP)_feat.GUMI.txt"
+    }
+  ]
+}
